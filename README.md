@@ -11,7 +11,6 @@
 - Python (data analysis, automation)
 - LLMs (prompt design, applied research workflows)
 - APIs (integration for research and automation)
-- Scientific writing (ABNT, manuscripts)
 - Research design (observational studies, clinical research)
 
 ---
