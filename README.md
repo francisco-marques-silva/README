@@ -1,7 +1,7 @@
 # Francisco Marques | Medical Student & Clinical Researcher
 
 🎓 **Medical Student (UEMA)** | 🔬 **Clinical Research & Data Science** | 📊 **Biostatistics**\
-📍 Brazil | ✉️ [your.email@example.com](mailto\:your.email@example.com) | 🔗 LinkedIn
+📍 Brazil | ✉️ [email](mailto\:francisco@pesquisaemdados.com.br) 
 
 ---
 
